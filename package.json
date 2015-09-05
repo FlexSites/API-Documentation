@@ -1,0 +1,23 @@
+{
+  "name": "flex-docs",
+  "version": "1.0.0",
+  "description": "SwaggerUI pointing at FlexSites API",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlexSites/API-Documentation.git"
+  },
+  "author": "Seth Tippetts <sethtippetts@gmail.com> (http://sethtippetts.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlexSites/API-Documentation/issues"
+  },
+  "homepage": "https://github.com/FlexSites/API-Documentation#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "swaggerize-ui": "^1.0.1"
+  }
+}
